@@ -1,0 +1,39 @@
+# Spring Boot
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE-specific
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+*.log
+
+# Eclipse-specific
+.classpath
+.settings/
+.project
+.metadata/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+log/
+logs/
+
+# Package Files
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.war
+*.ear
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Application properties
+application.properties
+application.yml
